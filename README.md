@@ -1,12 +1,15 @@
-### Anirban Mukherjee 👋
-
-- 🔭 What I work on ... Angular, Node, MongoDB, Docker, GCP  
-- 🌱 What interests me ... Firebase/Firestore, Vue  
-- ⚡ What I do for a living ... Senior Front-end developer at About You GmbH!
-
+### Anirban Mukherjee 👋  
 [![Github](https://img.shields.io/github/followers/anirbmuk?label=Follow&style=social)](https://github.com/anirbmuk)
 [![Linkedin](https://img.shields.io/badge/-Anirban%20Mukherjee-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anirbmuk)
 [![Mail](https://img.shields.io/badge/-anirban.mjee@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:anirban.mjee@gmail.com)
+
+- - - -
+
+- 🔭 What I work on ... Angular, Node, MongoDB, Docker, GCP  
+- 🌱 What interests me ... Firebase/Firestore, Vue  
+- ⚡ What I do for a living ... Senior Front-end developer at About You GmbH!  
+
+- - - -  
 
 ## What I love to do  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
