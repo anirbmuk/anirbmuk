@@ -1,7 +1,9 @@
 ### Anirban Mukherjee 👋  
 [![Github](https://img.shields.io/github/followers/anirbmuk?label=Follow&style=social)](https://github.com/anirbmuk)
-[![Linkedin](https://img.shields.io/badge/-Anirban%20Mukherjee-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anirbmuk)
-[![Mail](https://img.shields.io/badge/-anirban.mjee@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:anirban.mjee@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Anirban%20Mukherjee-121212?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/anirbmuk)
+[![Mail](https://img.shields.io/badge/-anirban.mjee@gmail.com-grey?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:anirban.mjee@gmail.com)
+[![twitter badge](https://img.shields.io/badge/-anirbmuk-121212?style=flat-square&logo=twitter)](https://twitter.com/anirbmuk)
+![](https://komarev.com/ghpvc/?username=anirbmuk&color=blue&style=flat-square)
 
 - - - -
 
