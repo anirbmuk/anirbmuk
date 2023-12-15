@@ -6,14 +6,14 @@
 
 - - - -
 
-- 🔭 What I work on ... Angular, Nuxt, Vue, Node, Redis, SEO  
+- 🔭 What I work on ... Nuxt, Vue, Angular, Node, Redis, SEO  
 - 🌱 What interests me ... Firebase/Firestore, NestJS, Cypress  
-- ⚡ What I do for a living ... Senior front-end developer at ABOUT YOU!  
+- ⚡ What I do for a living ... Senior front-end developer at SCAYLE GmbH!  
 
 - - - -  
 
 ### Here's my fancy online profile:  
-https://anirbmuk.appspot.com  
+https://anirbmuk.appspot.com/en  
 
 - - - -  
 
