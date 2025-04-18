@@ -8,7 +8,7 @@
 
 - 🔭 What I work on ... Nuxt, Vue, Angular, Node, Redis, SEO  
 - 🌱 What interests me ... Firebase/Firestore, NestJS, Cypress  
-- ⚡ What I do for a living ... Senior front-end developer at SCAYLE GmbH!  
+- ⚡ What I do for a living ... Staff frontend developer at SCAYLE GmbH!  
 
 - - - -  
 
