@@ -23,9 +23,9 @@ https://anirbmuk.appspot.com/en
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>  
 <code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>  
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
